@@ -2,7 +2,7 @@
 
 This project is a comprehensive analysis of customer churn within a telecommunications company. The goal is to build a predictive model that can identify customers at risk of leaving, allowing the business to take proactive steps to retain them.
 
-##Project Workflow
+## Project Workflow
 
 ### Exploratory Data Analysis (EDA)
 - Visualized key patterns in customer behavior.
@@ -28,7 +28,7 @@ pip install -r requirements.txt
 Run the Jupyter notebook:
 jupyter notebook churn.ipynb
 -Results & Insights
-The best-performing model achieved XX% accuracy and strong recall for churn cases.
+The best-performing model achieved 80% accuracy and strong recall for churn cases.
 Top churn drivers: contract type, tenure, monthly charges, and total charges.
 Business can reduce churn by targeting at-risk customers with personalized retention offers.
   ### Dataset
