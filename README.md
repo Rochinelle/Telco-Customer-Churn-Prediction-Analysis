@@ -40,6 +40,6 @@ https://www.kaggle.com/datasets/palashfendarkar/wa-fnusec-telcocustomerchurn/dat
 ![Customer Churn Analysis Dashboard](https://github.com/user-attachments/assets/f9675061-d8d8-4368-9b7c-4e543e930256)
 
 
-📜 License
+# License
 
-This project is for educational purposes. Dataset belongs to Kaggle.
+This project is licensed under the **MIT License**
