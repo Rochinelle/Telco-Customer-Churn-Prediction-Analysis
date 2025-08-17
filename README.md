@@ -1,4 +1,4 @@
-# Telco-Customer-Pediction
+# Telco-Customer-Prediction-Analysis
 
 This project is a comprehensive analysis of customer churn within a telecommunications company. The goal is to build a predictive model that can identify customers at risk of leaving, allowing the business to take proactive steps to retain them.
 
